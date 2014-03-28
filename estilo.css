@@ -56,15 +56,21 @@ ul a
 ul li
 {
 	list-style-type: none;
+	padding: 5px 0;
+	text-align: center;
 }
-
+ul li button
+{
+	width: 50%;
+	height: 50px;
+}
 form
 {
 	width: 100%;
 }
 #bienvenidos
 {
-
  font-style:  italic;
+}
 
 
